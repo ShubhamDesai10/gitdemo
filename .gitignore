@@ -1,3 +1,1 @@
-logs.log
-l.log
-/gitignore/newlog.log
+*.log
